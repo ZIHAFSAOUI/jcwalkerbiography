@@ -1,0 +1,76 @@
+head{
+    font-family:  Arial,sans-serif;
+}
+body
+{
+    font-family:arial,sans-serif;
+    color: black ;   
+    background-color:rgba(241, 240, 240, 0.849);
+    line-height: 20pt;
+
+}
+h1 
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.accroche
+{
+    text-align: center;
+}
+img
+{
+    width: 50%;
+    height: 20%;
+    display: block;
+    margin-right: 50%;
+    margin-left: 25%;
+    margin-bottom: 1%;
+
+}
+.box-1
+{
+    background-color: white;
+    padding-top: 12pt;
+    
+    
+}
+.caption
+{
+    margin-left: 26%;
+    background-color:white;
+    width: 50%;
+    
+}
+.texte
+{
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 30%;
+    text-align: justify;
+}
+.citation
+{
+    margin-left: 37%;
+    width: 30%;
+}
+.website
+{
+    margin-top: 12pt;
+    text-align: center;
+    font-weight: bold;
+}
+/*unvisited link/*
+a:link{
+    color: blue;
+}
+/* visited link */
+a:visited{
+    color: green;
+}
